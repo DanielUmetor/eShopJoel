@@ -1,4 +1,4 @@
-# frontendesjop
+# eshop
 
 ## Project setup
 ```
